@@ -4,3 +4,12 @@
 - How to initialize CodeMirror on the browser
 - Listen to events
 - Manipulate code
+
+### Usage
+
+Make sure you have Node and NPM installed
+
+- Clone the Repo
+- cd into the folder
+- run `npm install`
+- open index.html in chrome
